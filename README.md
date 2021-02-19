@@ -37,7 +37,7 @@ ClientX, ClientY를 이용하여 화면 상에서 마우스가 움직일 때마�
 
   ![js 작성 모습](https://user-images.githubusercontent.com/63761624/108477687-e37b2b80-72d6-11eb-803b-9ad84f1e9fbe.PNG "<수정 전>")
 
-- <수정 전><br>
+- <수정 후><br>
 
 ![수정 후 js](https://user-images.githubusercontent.com/63761624/108489267-b170c600-72e4-11eb-85dd-5fd45c92035f.PNG "<수정 후>")
 
